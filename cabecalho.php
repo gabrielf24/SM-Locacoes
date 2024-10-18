@@ -19,7 +19,7 @@
 <!-- Botões de login e cadastro -->
         <div class="text-end">
           <button type="button" class="btn btn-outline-light me-2">Login</button>
-          <button type="button" class="btn btn-warning">Cadastro</button>
+          <button type="button" class="btn btn-outline-light me-2">Cadastro</button>
         </div>
       </div>
     </div>
