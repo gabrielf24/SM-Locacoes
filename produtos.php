@@ -38,9 +38,35 @@
         </ul>
       </div>
     </div>
+    
     <!--<div class="banner-left"> <img src="image/banner-left2.png" alt=""> </div>--> 
   </div>
 </div>
+
+
+<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+  <div class="printable">
+    <div class="col-main">
+       <div class="bx-title new-title">
+          <h2>PRODUTOS</h2>
+</div>
+        <div id="content">
+            <div class="fieldset">
+                  <div class="panel ">
+                    </div>
+                </div>
+            </div>
+
+
+        
+
+    </div>
+
+</div>
+
+
+
+</div> <!-- //! FIM DA DIV -->
 
 
 
