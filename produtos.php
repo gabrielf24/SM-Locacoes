@@ -14,15 +14,15 @@
 <?php include ("cabecalho.php") ?>
 
 <div class = "main">
-<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 hidden-xs">
-  <div class="col-left sidebar">
-    <div class="block block-layered-nav">
-      <div class="bx-title new-title">
-        <h2>CATEGORIAS</h2>
+  <div class = "row">
+    <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 hidden-xs">
+      <div class="col-left sidebar">
+        <div class="block block-layered-nav">
+          <div class="bx-title new-title">
+              <h2>CATEGORIAS</h2>
       </div>
       <div class="block-content">
         <ul class="cd-accordion-menu animated">
-         
             <li><img src="https://rentalfesta.com.br/icones/icone_copos-e-tacas.png" class="icone"><a href="https://rentalfesta.com.br/catalogo/copos-e-tacas">Copos e Taças</a></li>
             <li><img src="https://rentalfesta.com.br/icones/icone_cristais.png" class="icone"><a href="https://rentalfesta.com.br/catalogo/cristais">Cristais</a></li> 
             <li><img src="https://rentalfesta.com.br/icones/icone_inox.png" class="icone"><a href="https://rentalfesta.com.br/catalogo/inox">Inox</a></li>
@@ -34,7 +34,6 @@
             <li><img src="https://rentalfesta.com.br/icones/icone_utensilios.png" class="icone"><a href="https://rentalfesta.com.br/catalogo/utensilios">Utensílios para Cozinha</a></li>
             <li><img src="https://rentalfesta.com.br/icones/icone_vidros-e-saladeiras.png" class="icone"><a href="https://rentalfesta.com.br/catalogo/vidros-e-saladeiras">Vidros</a></li>
             <li><img src="https://rentalfesta.com.br/icones/icone_xicaras-e-canecas.png" class="icone"><a href="https://rentalfesta.com.br/catalogo/xicaras-e-canecas">Xícaras e Canecas</a></li>            
-            
         </ul>
       </div>
     </div>
