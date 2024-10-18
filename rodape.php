@@ -55,7 +55,7 @@
             <!-- Formulário de Contato -->
             <div class="col-md-4">
                 <div class="mb-4">
-                    <h4>Contato</h4>
+                    <h4>Redes Sociais</h4>
                         
                         <!-- Ícones de Redes Sociais -->
                         <div class="d-flex justify-content-center my-4">
@@ -74,7 +74,6 @@
                         </div>
                     </form>
                 </div>
-                
             </div>
         </div>
     </div>

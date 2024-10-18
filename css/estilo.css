@@ -85,17 +85,25 @@ footer {
 }
 
 
-.fundo-rodape {
-    padding-top: 20px;
-    
-   
-padding-bottom: 20px;
-    
-
+.fundo-rodape 
+{
+    padding-top: 20px;    
+    padding-bottom: 20px;
     color: #fff;
 }
 
 .redes_sociais
 {
     color: #ddd;
+}
+
+.redes_sociais 
+{
+    text-decoration: none; /* Remove a linha de sublinhado */
+    color: white; /* Mantém a cor do texto como está */
+}
+
+a 
+{
+    text-decoration: none; /* Remove a linha de sublinhado para todos os links */
 }
