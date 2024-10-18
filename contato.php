@@ -12,6 +12,8 @@
 <!-- inclusão do cabeçalho -->
 <?php include ("cabecalho.php") ?>
 
+<main class></main>
+
 <!-- inclusão do rodapé -->
 <?php include ("rodape.php") ?>
 </body>
