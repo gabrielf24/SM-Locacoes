@@ -1,0 +1,101 @@
+/* estilo.css */
+
+/* Estilo geral */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa; /* cor de fundo suave */
+    color: #343a40; /* texto padrão */
+    margin: 0;
+    padding: 0;
+}
+
+/* Cabeçalho */
+header {
+    background-color: #007bff; /* azul */
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilo da sidebar */
+.col-left {
+    background-color: #fff; /* branco */
+    border: 1px solid #ddd; /* borda leve */
+    padding: 15px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* sombra */
+}
+
+/* Título das categorias */
+.bx-title h2 {
+    font-size: 1.5em;
+    margin-bottom: 15px;
+}
+
+/* Lista de categorias */
+.cd-accordion-menu {
+    list-style-type: none; /* remove marcadores */
+    padding: 0;
+}
+
+.cd-accordion-menu li {
+    margin-bottom: 10px; /* espaçamento entre itens */
+    display: flex; /* para alinhar ícones e textos */
+    align-items: center; /* centraliza verticalmente */
+}
+
+.cd-accordion-menu img.icone {
+    width: 30px; /* largura do ícone */
+    height: 30px; /* altura do ícone */
+    margin-right: 10px; /* espaço entre ícone e texto */
+}
+
+/* Links */
+.cd-accordion-menu a {
+    text-decoration: none; /* remove sublinhado */
+    color: #007bff; /* azul para links */
+    transition: color 0.3s; /* animação suave */
+}
+
+.cd-accordion-menu a:hover {
+    color: #0056b3; /* cor mais escura ao passar o mouse */
+}
+
+/* Rodapé */
+footer {
+    background-color: #007bff; /* azul */
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .col-left {
+        padding: 10px; /* menos padding em telas menores */
+    }
+
+    .cd-accordion-menu li {
+        flex-direction: column; /* empilha ícone e texto */
+        align-items: flex-start; /* alinha à esquerda */
+    }
+}
+
+
+.fundo-rodape {
+    padding-top: 20px;
+    
+   
+padding-bottom: 20px;
+    
+   
+background-color: #333;
+    color: #fff;
+}
+
+.footer .facebookicon img {
+    margin: 0 10px;
+}
+
