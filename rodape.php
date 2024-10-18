@@ -9,7 +9,7 @@
 
 <figure class="facebookicon">
     <a href="https://facebook.com" target="_blank">
-        <img src="img/rede-social/facebook.png" width="50px" height="50px" alt="facebook icon">
+        <img src="img/rede-social/facebook.png" width="50px" height="50px" alt="facebook">
     </a>
     <a href="https://instagram.com" target="_blank">
         <img src="img/rede-social/instagram.png" width="50px" height="50px" alt="instagram">
