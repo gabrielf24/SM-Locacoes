@@ -14,7 +14,7 @@
 <?php include ("cabecalho.php") ?>
 
 <!-- inclusão do carousel -->
-<?php include ("carousel.php") ?>
+
 
 <!-- inclusão do rodapé -->
 <?php include ("rodape.php") ?>
