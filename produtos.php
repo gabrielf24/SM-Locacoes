@@ -23,7 +23,6 @@
       <div class="block-content">
         <ul class="cd-accordion-menu animated">
          
-                    
             <li><img src="https://rentalfesta.com.br/icones/icone_copos-e-tacas.png" class="icone"><a href="https://rentalfesta.com.br/catalogo/copos-e-tacas">Copos e Taças</a></li>
             <li><img src="https://rentalfesta.com.br/icones/icone_cristais.png" class="icone"><a href="https://rentalfesta.com.br/catalogo/cristais">Cristais</a></li> 
             <li><img src="https://rentalfesta.com.br/icones/icone_inox.png" class="icone"><a href="https://rentalfesta.com.br/catalogo/inox">Inox</a></li>
@@ -36,34 +35,12 @@
             <li><img src="https://rentalfesta.com.br/icones/icone_vidros-e-saladeiras.png" class="icone"><a href="https://rentalfesta.com.br/catalogo/vidros-e-saladeiras">Vidros</a></li>
             <li><img src="https://rentalfesta.com.br/icones/icone_xicaras-e-canecas.png" class="icone"><a href="https://rentalfesta.com.br/catalogo/xicaras-e-canecas">Xícaras e Canecas</a></li>            
             
-          
         </ul>
       </div>
     </div>
     <!--<div class="banner-left"> <img src="image/banner-left2.png" alt=""> </div>--> 
   </div>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
