@@ -3,7 +3,7 @@
 /* Estilo geral */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f8f9fa; /* cor de fundo suave */
+    background-color: #fff; /* cor de fundo suave */
     color: #343a40; /* texto padrão */
     margin: 0;
     padding: 0;
@@ -11,7 +11,7 @@ body {
 
 /* Cabeçalho */
 header {
-    background-color: #007bff; /* azul */
+    background-color: #020202; /* azul */
     color: white;
     padding: 20px;
     text-align: center;
@@ -20,7 +20,7 @@ header {
 /* Estilo da sidebar */
 .col-left {
     background-color: #fff; /* branco */
-    border: 1px solid #ddd; /* borda leve */
+    border: 1px solid #fff; /* borda leve */
     padding: 15px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* sombra */
 }
@@ -29,6 +29,7 @@ header {
 .bx-title h2 {
     font-size: 1.5em;
     margin-bottom: 15px;
+    align-items: center;
 }
 
 /* Lista de categorias */
@@ -52,7 +53,7 @@ header {
 /* Links */
 .cd-accordion-menu a {
     text-decoration: none; /* remove sublinhado */
-    color: #007bff; /* azul para links */
+    color: black; /* azul para links */
     transition: color 0.3s; /* animação suave */
 }
 
