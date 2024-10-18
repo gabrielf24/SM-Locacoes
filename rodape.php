@@ -55,7 +55,7 @@
             <!-- Formulário de Contato -->
             <div class="col-md-4">
                 <div class="mb-4">
-                    <h4>Contato</h4>
+                    <h4>Redes Sociais</h4>
                         
                         <!-- Ícones de Redes Sociais -->
                         <div class="d-flex justify-content-center my-4">
@@ -67,14 +67,13 @@
                         <img src="img/rede-social/instagram.png" width="50px" height="50px" alt="Instagram"><br>
                              <p class="redes_sociais"> @sm_locacao</p>
                         </a>
-                        <a href="https://whatsapp.com" target="_blank" class="mx-2">
+                        <a href="https://wa.me/55119954211439" target="_blank" class="mx-2">
                         <img src="img/rede-social/whatsapp.png" width="50px" height="50px" alt="WhatsApp"><br>
-                        <p class="redes_sociais">(11) 995421-1439</p>
+                        <p class="redes_sociais">(11)995421-1439</p>
                         </a>
                         </div>
                     </form>
                 </div>
-                
             </div>
         </div>
     </div>
