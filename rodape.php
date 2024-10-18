@@ -69,11 +69,6 @@
                                 <span class="glyphicon glyphicon-cutlery"></span> Produtos
                             </a>
                         </li>
-                        <li class="nav-item">
-                            <a href="index.php#contato" class="text-danger nav-link">
-                                <span class="glyphicon glyphicon-envelope"></span> Contato
-                            </a>
-                        </li>
                     </ul>
                 </div>
             </div>
