@@ -23,17 +23,18 @@
       </div>
       <div class="block-content">
         <ul class="cd-accordion-menu animated">
-            <li><img src="https://rentalfesta.com.br/icones/icone_copos-e-tacas.png" class="icone"><a href="https://rentalfesta.com.br/catalogo/copos-e-tacas">Copos e Taças</a></li>
-            <li><img src="https://rentalfesta.com.br/icones/icone_cristais.png" class="icone"><a href="https://rentalfesta.com.br/catalogo/cristais">Cristais</a></li> 
-            <li><img src="https://rentalfesta.com.br/icones/icone_inox.png" class="icone"><a href="https://rentalfesta.com.br/catalogo/inox">Inox</a></li>
-            <li><img src="https://rentalfesta.com.br/icones/icone_mesas-e-cadeiras.png" class="icone"><a href="https://rentalfesta.com.br/catalogo/mesas-e-cadeiras">Mesas / Cadeiras / Pranchão</a></li>
-            <li><img src="https://rentalfesta.com.br/icones/icone_prata.png" class="icone"><a href="https://rentalfesta.com.br/catalogo/prata">Prata</a></li>
-            <li><img src="https://rentalfesta.com.br/icones/icone_pratos.png" class="icone"><a href="https://rentalfesta.com.br/catalogo/pratos">Pratos</a></li><li><img src="https://rentalfesta.com.br/icones/icone_sous-plat.png" class="icone"><a href="https://rentalfesta.com.br/catalogo/sous-plat">Sousplat</a></li>
-            <li><img src="https://rentalfesta.com.br/icones/icone_suqueiras.png" class="icone"><a href="https://rentalfesta.com.br/catalogo/suqueiras">Suqueiras</a></li>
-            <li><img src="https://rentalfesta.com.br/icones/icone_talheres-e-acessorios.png" class="icone"><a href="https://rentalfesta.com.br/catalogo/talheres-e-acessorios">Talheres</a></li>
-            <li><img src="https://rentalfesta.com.br/icones/icone_utensilios.png" class="icone"><a href="https://rentalfesta.com.br/catalogo/utensilios">Utensílios para Cozinha</a></li>
-            <li><img src="https://rentalfesta.com.br/icones/icone_vidros-e-saladeiras.png" class="icone"><a href="https://rentalfesta.com.br/catalogo/vidros-e-saladeiras">Vidros</a></li>
-            <li><img src="https://rentalfesta.com.br/icones/icone_xicaras-e-canecas.png" class="icone"><a href="https://rentalfesta.com.br/catalogo/xicaras-e-canecas">Xícaras e Canecas</a></li>            
+            <li><img src="https://rentalfesta.com.br/icones/icone_copos-e-tacas.png" class="icone"><a href="">Copos e Taças</a></li>
+            <li><img src="https://rentalfesta.com.br/icones/icone_cristais.png" class="icone"><a href="">Cristais</a></li> 
+            <li><img src="https://rentalfesta.com.br/icones/icone_inox.png" class="icone"><a href="">Inox</a></li>
+            <li><img src="https://rentalfesta.com.br/icones/icone_mesas-e-cadeiras.png" class="icone"><a href="">Mesas / Cadeiras / Pranchão</a></li>
+            <li><img src="https://rentalfesta.com.br/icones/icone_prata.png" class="icone"><a href="">Prata</a></li>
+            <li><img src="https://rentalfesta.com.br/icones/icone_pratos.png" class="icone"><a href="">Pratos</a></li>
+            <li><img src="https://rentalfesta.com.br/icones/icone_sous-plat.png" class="icone"><a href="">Sousplat</a></li>
+            <li><img src="https://rentalfesta.com.br/icones/icone_suqueiras.png" class="icone"><a href="">Suqueiras</a></li>
+            <li><img src="https://rentalfesta.com.br/icones/icone_talheres-e-acessorios.png" class="icone"><a href="">Talheres</a></li>
+            <li><img src="https://rentalfesta.com.br/icones/icone_utensilios.png" class="icone"><a href="">Utensílios para Cozinha</a></li>
+            <li><img src="https://rentalfesta.com.br/icones/icone_vidros-e-saladeiras.png" class="icone"><a href="">Vidros</a></li>
+            <li><img src="https://rentalfesta.com.br/icones/icone_xicaras-e-canecas.png" class="icone"><a href="">Xícaras e Canecas</a></li>            
         </ul>
       </div>
     </div>
