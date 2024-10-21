@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/estilo.css">
     <script src="js/bootstrap.min.js"></script>
+    <link rel="shortcut icon" href="img/favicon.png" type="image/png">
 </head>
 <body>
 
