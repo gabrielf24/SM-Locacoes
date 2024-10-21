@@ -82,7 +82,25 @@ footer {
         flex-direction: column; /* empilha ícone e texto */
         align-items: flex-start; /* alinha à esquerda */
     }
+
 }
+
+.col{
+    width: 250px; /* css dos cards */
+    height: 150px;
+}
+.topo-produtos{ 
+    margin-top: 50px; /*css do titulo taça */
+    margin: 5px;
+}
+
+.copos{
+    margin-top: 30px; /*css do titulo copos */
+}
+
+/* fim do css dos produtos */
+
+
 
 
 .fundo-rodape 
