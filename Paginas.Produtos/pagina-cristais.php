@@ -24,18 +24,18 @@
       </div>
       <div class="block-content">
         <ul class="cd-accordion-menu animated">
-            <li><img src="https://rentalfesta.com.br/icones/icone_copos-e-tacas.png" class="icone"><a href="">Copos e Taças</a></li>
-            <li><img src="https://rentalfesta.com.br/icones/icone_cristais.png" class="icone"><a href="">Cristais</a></li> 
-            <li><img src="https://rentalfesta.com.br/icones/icone_inox.png" class="icone"><a href="">Inox</a></li>
-            <li><img src="https://rentalfesta.com.br/icones/icone_mesas-e-cadeiras.png" class="icone"><a href="">Mesas / Cadeiras / Pranchão</a></li>
-            <li><img src="https://rentalfesta.com.br/icones/icone_prata.png" class="icone"><a href="">Prata</a></li>
-            <li><img src="https://rentalfesta.com.br/icones/icone_pratos.png" class="icone"><a href="">Pratos</a></li>
-            <li><img src="https://rentalfesta.com.br/icones/icone_sous-plat.png" class="icone"><a href="">Sousplat</a></li>
-            <li><img src="https://rentalfesta.com.br/icones/icone_suqueiras.png" class="icone"><a href="">Suqueiras</a></li>
-            <li><img src="https://rentalfesta.com.br/icones/icone_talheres-e-acessorios.png" class="icone"><a href="">Talheres</a></li>
-            <li><img src="https://rentalfesta.com.br/icones/icone_utensilios.png" class="icone"><a href="">Utensílios para Cozinha</a></li>
-            <li><img src="https://rentalfesta.com.br/icones/icone_vidros-e-saladeiras.png" class="icone"><a href="">Vidros</a></li>
-            <li><img src="https://rentalfesta.com.br/icones/icone_xicaras-e-canecas.png" class="icone"><a href="">Xícaras e Canecas</a></li>            
+              <li><img src="https://rentalfesta.com.br/icones/icone_copos-e-tacas.png" class="icone"><a href="produtos.php">Copos e Taças</a></li>
+              <li><img src="https://rentalfesta.com.br/icones/icone_cristais.png" class="icone"><a href="Paginas.Produtos/pagina-cristais.php">Cristais</a></li> 
+              <li><img src="https://rentalfesta.com.br/icones/icone_inox.png" class="icone"><a href="Paginas.Produtos/pagina-inox.php">Inox</a></li>
+              <li><img src="https://rentalfesta.com.br/icones/icone_mesas-e-cadeiras.png" class="icone"><a href="Paginas.Produtos/pagina-mesas.php">Mesas / Cadeiras / Pranchão</a></li>
+              <li><img src="https://rentalfesta.com.br/icones/icone_prata.png" class="icone"><a href="Paginas.Produtos/pagina-Prata.php">Prata</a></li>
+              <li><img src="https://rentalfesta.com.br/icones/icone_pratos.png" class="icone"><a href="Paginas.Produtos/pagina-Pratos.php">Pratos</a></li>
+              <li><img src="https://rentalfesta.com.br/icones/icone_sous-plat.png" class="icone"><a href="Paginas.Produtos/pagina-Sousplat.php">Sousplat</a></li>
+              <li><img src="https://rentalfesta.com.br/icones/icone_suqueiras.png" class="icone"><a href="Paginas.Produtos/pagina-Suqueiras.php">Suqueiras</a></li>
+              <li><img src="https://rentalfesta.com.br/icones/icone_talheres-e-acessorios.png" class="icone"><a href="Paginas.Produtos/pagina-Talheres.php">Talheres</a></li>
+              <li><img src="https://rentalfesta.com.br/icones/icone_utensilios.png" class="icone"><a href="Paginas.Produtos/pagina-Utensilios.php">Utensílios para Cozinha</a></li>
+              <li><img src="https://rentalfesta.com.br/icones/icone_vidros-e-saladeiras.png" class="icone"><a href="Paginas.Produtos/pagina-Vidros.php">Vidros</a></li>
+              <li><img src="https://rentalfesta.com.br/icones/icone_xicaras-e-canecas.png" class="icone"><a href="Paginas.Produtos/pagina-Xicaras.php">Xícaras e Canecas</a></li>            
         </ul>
       </div>
     </div>
@@ -51,82 +51,77 @@
        <div class="topo-produtos">
           <h2>Cristais</h2>
           <div class="row row-cols-1 row-cols-md-3 g-4">
-  <div class="col">
-    <div class="card h-100">
-      <img src="SM-Locacoes/img/produtos/taças/taça vidro rosa.jpg" class="card-img-top" alt="taça-rosa">
-      <div class="card-body">
-        <h5 class="card-title"></h5>
-        <p class="card-text"></p>
-      </div>
-    </div>
-  </div>
-      <div class="col">
-        <div class="card h-100">
-          <img src="..." class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title"></h5>
-        <p class="card-text"></p>
-  </div>
-  </div>
-  </div>
-      <div class="col">
-        <div class="card h-100">
-          <img src="..." class="card-img-top" alt="...">
-        <div class="card-body">
-            <h5 class="card-title"></h5>
-              <p class="card-text"></p>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card h-100">
-      <img src="..." class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title"></h5>
-        <p class="card-text"></p>
-      </div>
+          
+<div class="card">
+    <img src="../img/produtos/cristais/saladeira.jpg">
+    <div>
+      <h1>Saladeira</h1>
+      <span>R$ 5,50</span>
+      <button>Saiba mais</button>
     </div>
   </div>
 
-  <div class="col">
-    <div class="card h-100">
-      <img src="..." class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title"></h5>
-        <p class="card-text"></p>
-      </div>
+<div class="card">
+    <img src="../img/produtos/cristais/saladeira-vidro.temperado.jpg">
+    <div>
+      <h1>Saladeira Vidro T.</h1>
+      <span>R$ 5,50</span>
+      <button>Saiba mais</button>
     </div>
   </div>
 
-  <div class="col">
-    <div class="card h-100">
-      <img src="..." class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title"></h5>
-        <p class="card-text"></p>
-      </div>
+
+  <div class="card">
+    <img src="../img/produtos/cristais/centro-de-mesa-pluma-vitazza_744947.jpg">
+    <div>
+      <h1>Saladeira</h1>
+      <span>R$ 5,50</span>
+      <button>Saiba mais</button>
     </div>
   </div>
 
-  <div class="col">
-    <div class="card h-100">
-      <img src="..." class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title"></h5>
-        <p class="card-text"></p>
-      </div>
+  <div class="card">
+    <img src="../img/produtos/cristais/saladeira 2.jpg">
+    <div>
+      <h1>Saladeira</h1>
+      <span>R$ 5,50</span>
+      <button>Saiba mais</button>
     </div>
   </div>
 
-  <div class="col">
-    <div class="card h-100">
-      <img src="..." class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title"></h5>
-        <p class="card-text"></p>
-      </div>
+  <div class="card">
+    <img src="../img/produtos/cristais/saladeira hawai.jpg">
+    <div>
+      <h1>Saladeira</h1>
+      <span>R$ 5,50</span>
+      <button>Saiba mais</button>
     </div>
   </div>
+
+  <div class="card">
+    <img src="../img/produtos/cristais/prato_de_vidro_kedaung_tul_30cm_1571111361_7776_600x600.jpg">
+    <div>
+      <h1>Saladeira</h1>
+      <span>R$ 5,50</span>
+      <button>Saiba mais</button>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="../img/produtos/cristais/saldeira 1.jpg">
+    <div>
+      <h1>Saladeira</h1>
+      <span>R$ 5,50</span>
+      <button>Saiba mais</button>
+    </div>
+  </div>
+
+
+
+
+
+
+
 
 </div> <!-- Fim da div Taças --->
 
