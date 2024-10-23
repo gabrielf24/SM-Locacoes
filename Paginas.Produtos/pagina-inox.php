@@ -24,18 +24,17 @@
       </div>
       <div class="block-content">
         <ul class="cd-accordion-menu animated">
-              <li><img src="https://rentalfesta.com.br/icones/icone_copos-e-tacas.png" class="icone"><a href="produtos.php">Copos e Taças</a></li>
-              <li><img src="https://rentalfesta.com.br/icones/icone_cristais.png" class="icone"><a href="Paginas.Produtos/pagina-cristais.php">Cristais</a></li> 
-              <li><img src="https://rentalfesta.com.br/icones/icone_inox.png" class="icone"><a href="Paginas.Produtos/pagina-inox.php">Inox</a></li>
-              <li><img src="https://rentalfesta.com.br/icones/icone_mesas-e-cadeiras.png" class="icone"><a href="Paginas.Produtos/pagina-mesas.php">Mesas / Cadeiras / Pranchão</a></li>
-              <li><img src="https://rentalfesta.com.br/icones/icone_prata.png" class="icone"><a href="Paginas.Produtos/pagina-Prata.php">Prata</a></li>
-              <li><img src="https://rentalfesta.com.br/icones/icone_pratos.png" class="icone"><a href="Paginas.Produtos/pagina-Pratos.php">Pratos</a></li>
-              <li><img src="https://rentalfesta.com.br/icones/icone_sous-plat.png" class="icone"><a href="Paginas.Produtos/pagina-Sousplat.php">Sousplat</a></li>
-              <li><img src="https://rentalfesta.com.br/icones/icone_suqueiras.png" class="icone"><a href="Paginas.Produtos/pagina-Suqueiras.php">Suqueiras</a></li>
-              <li><img src="https://rentalfesta.com.br/icones/icone_talheres-e-acessorios.png" class="icone"><a href="Paginas.Produtos/pagina-Talheres.php">Talheres</a></li>
-              <li><img src="https://rentalfesta.com.br/icones/icone_utensilios.png" class="icone"><a href="Paginas.Produtos/pagina-Utensilios.php">Utensílios para Cozinha</a></li>
-              <li><img src="https://rentalfesta.com.br/icones/icone_vidros-e-saladeiras.png" class="icone"><a href="Paginas.Produtos/pagina-Vidros.php">Vidros</a></li>
-              <li><img src="https://rentalfesta.com.br/icones/icone_xicaras-e-canecas.png" class="icone"><a href="Paginas.Produtos/pagina-Xicaras.php">Xícaras e Canecas</a></li>             
+              <li><img src="https://rentalfesta.com.br/icones/icone_copos-e-tacas.png" class="icone"><a href="../produtos.php">Copos e Taças</a></li>
+              <li><img src="https://rentalfesta.com.br/icones/icone_cristais.png" class="icone"><a href="../Paginas.Produtos/pagina-cristais.php">Cristais</a></li> 
+              <li><img src="https://rentalfesta.com.br/icones/icone_inox.png" class="icone"><a href="../Paginas.Produtos/pagina-inox.php">Inox</a></li>
+              <li><img src="https://rentalfesta.com.br/icones/icone_mesas-e-cadeiras.png" class="icone"><a href="../Paginas.Produtos/pagina-mesas.php">Mesas / Cadeiras / Pranchão</a></li>
+              <li><img src="https://rentalfesta.com.br/icones/icone_prata.png" class="icone"><a href="../Paginas.Produtos/pagina-Prata.php">Prata</a></li>
+              <li><img src="https://rentalfesta.com.br/icones/icone_pratos.png" class="icone"><a href="../Paginas.Produtos/pagina-Pratos.php">Pratos</a></li>
+              <li><img src="https://rentalfesta.com.br/icones/icone_sous-plat.png" class="icone"><a href="../Paginas.Produtos/pagina-Sousplat.php">Sousplat</a></li>
+              <li><img src="https://rentalfesta.com.br/icones/icone_suqueiras.png" class="icone"><a href="../Paginas.Produtos/pagina-Suqueiras.php">Suqueiras</a></li>
+              <li><img src="https://rentalfesta.com.br/icones/icone_talheres-e-acessorios.png" class="icone"><a href="../Paginas.Produtos/pagina-Talheres.php">Talheres</a></li>
+              <li><img src="https://rentalfesta.com.br/icones/icone_utensilios.png" class="icone"><a href="../Paginas.Produtos/pagina-Utensilios.php">Utensílios para Cozinha</a></li>
+              <li><img src="https://rentalfesta.com.br/icones/icone_xicaras-e-canecas.png" class="icone"><a href="../Paginas.Produtos/pagina-Xicaras.php">Xícaras e Canecas</a></li>             
         </ul>
       </div>
     </div>
@@ -56,7 +55,7 @@
     <img src="../img/produtos/rechaud/rechaud 1 cuba retangular.jpg">
     <div>
       <h1>Rechaud 1 Cuba</h1>
-      <span>R$ 5,50</span>
+      <span>R$ 35,00</span>
       <button>Saiba mais</button>
     </div>
   </div>
@@ -64,8 +63,8 @@
 <div class="card">
     <img src="../img/produtos/rechaud/rechaud 2 cuba.jpg">
     <div>
-      <h1>Rechaud 2 Cubas</h1>
-      <span>R$ 5,50</span>
+      <h1>Rechaud 2 Cuba</h1>
+      <span>R$ 38,00</span>
       <button>Saiba mais</button>
     </div>
   </div>
@@ -74,7 +73,7 @@
     <img src="../img/produtos/rechaud/rechaud redondo.jpg">
     <div>
       <h1>Rech. Redondo</h1>
-      <span>R$ 5,50</span>
+      <span>R$ 30,00</span>
       <button>Saiba mais</button>
     </div>
   </div>
