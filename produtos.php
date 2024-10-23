@@ -22,7 +22,7 @@
                 <h2>CATEGORIAS</h2>
         </div>
         <div class="block-content">
-          <ul class="cd-accordion-menu animated">
+          <ul class="cd-accordion-menu animated"> <!-- navbar das categorias -->
               <li><img src="https://rentalfesta.com.br/icones/icone_copos-e-tacas.png" class="icone"><a href="">Copos e Taças</a></li>
               <li><img src="https://rentalfesta.com.br/icones/icone_cristais.png" class="icone"><a href="Paginas.Produtos/pagina-cristais.php">Cristais</a></li> 
               <li><img src="https://rentalfesta.com.br/icones/icone_inox.png" class="icone"><a href="Paginas.Produtos/pagina-inox.php">Inox</a></li>
@@ -48,7 +48,7 @@
           <div class="row row-cols-1 row-cols-md-3 g-4">
 
   <div class="card">
-    <img src="img/produtos/taças/taça diamante.png">
+    <img src="img/produtos/taças/taça diamante.png">  <!-- começo dos cards -->
     <div>
       <h1>Taça Diamante</h1>
       <span>R$ 5,50</span>
@@ -131,6 +131,7 @@
 
 </div> <!-- Fim da div Taças --->
 
+<!-- começo dos cards -->
 <div class = "copos">
   <h1> Copos </h1>
   <div class="row row-cols-1 row-cols-md-3 g-4">
@@ -179,9 +180,7 @@
     </div>
   </div>
 </div>
-
-
-
+<!-- fim dos cards -->
 
 
 </div>  

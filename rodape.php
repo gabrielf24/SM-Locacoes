@@ -60,15 +60,15 @@
                         <!-- Ícones de Redes Sociais -->
                         <div class="d-flex justify-content-center my-4">
                         <a href="https://www.facebook.com/REALEVENT.SM" target="_blank" class="mx-2">
-                        <img src="img/rede-social/facebook.png" width="50px" height="50px" alt="Facebook"><br>
+                        <img src="../img/rede-social/facebook.png" width="50px" height="50px" alt="Facebook"><br>
                         <p class="redes_sociais">@SM Locações</p> 
                         </a>
                         <a href="https://www.instagram.com/sm_locacao?igsh=dnR0YnlmdHExYWJ3" target="_blank" class="mx-2">
-                        <img src="img/rede-social/instagram.png" width="50px" height="50px" alt="Instagram"><br>
+                        <img src="../img/rede-social/instagram.png" width="50px" height="50px" alt="Instagram"><br>
                              <p class="redes_sociais"> @sm_locacao</p>
                         </a>
                         <a href="https://wa.me/55119954211439" target="_blank" class="mx-2">
-                        <img src="img/rede-social/whatsapp.png" width="50px" height="50px" alt="WhatsApp"><br>
+                        <img src="../img/rede-social/whatsapp.png" width="50px" height="50px" alt="WhatsApp"><br>
                         <p class="redes_sociais">(11)995421-1439</p>
                         </a>
                         </div>
