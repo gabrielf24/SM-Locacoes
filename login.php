@@ -9,9 +9,10 @@
 </head>
 <body class="d-flex allign-items-center py-4 bg-light bg-body-tertiary h-100">
 
+<!-- formulário de login e senha -->
 <main class="w-100 m-auto form-container">
     <form action="login.php" method="post">
-        <img src="" alt="" srcset="">
+        <img src="img/logo.png" alt="logo" class="mb-4" height="300" width="400">
         <div class="form-floating">
             <input type="email" class="form-control" id="floatingInput" placeholder="Digite seu e-mail:">
             <label for="floatingInput">E-mail</label>
@@ -28,7 +29,7 @@
        <input type="submit" value="Entrar" class="btn btn-primary w-100 py-2">
     </form>    
 </main>
-
+<!-- fim do formulário de login e senha -->
 
 </body>
 </html>
