@@ -1,7 +1,8 @@
 /* estilo.css */
 
 /* Estilo geral */
-body {
+body 
+{
     font-family: Arial, sans-serif;
     background-color: #fff; /* cor de fundo suave */
     color: #343a40; /* texto padrão */
@@ -10,67 +11,78 @@ body {
 }
 
 /* Estilo da sidebar */
-.col-left {
+.col-left 
+{
  
     padding: 15px;
    
 }
 
 /* Título das categorias */
-.bx-title h2 {
+.bx-title h2 
+{
     font-size: 1.5em;
     margin-bottom: 15px;
     align-items: center;
 }
 
 /* Lista de categorias */
-.cd-accordion-menu {
+.cd-accordion-menu 
+{
     list-style-type: none; /* remove marcadores */
     padding: 0;
 }
 
-.cd-accordion-menu li {
+.cd-accordion-menu li 
+{
     margin-bottom: 30px; /* espaçamento entre itens */
     display: flex; /* para alinhar ícones e textos */
     align-items: center; /* centraliza verticalmente */
 }
 
-.cd-accordion-menu img.icone {
+.cd-accordion-menu img.icone 
+{
     width: 30px; /* largura do ícone */
     height: 30px; /* altura do ícone */
     margin-right: 10px; /* espaço entre ícone e texto */
 }
 
 /* Links */
-.cd-accordion-menu a {
+.cd-accordion-menu a 
+{
     text-decoration: none; /* remove sublinhado */
     color: black; /* azul para links */
     transition: color 0.3s; /* animação suave */
 }
 
-.cd-accordion-menu a:hover {
+.cd-accordion-menu a:hover 
+{
     color: #0056b3; /* cor mais escura ao passar o mouse */
 }
 
 /* Responsividade */
-@media (max-width: 768px) {
-    .col-left {
-        padding: 10px; /* menos padding em telas menores */
+@media (max-width: 768px) 
+{
+    .col-left 
+    {
+      padding: 10px; /* menos padding em telas menores */
     }
 
-    .cd-accordion-menu li {
-        flex-direction: column; /* empilha ícone e texto */
-        align-items: flex-start; /* alinha à esquerda */
+    .cd-accordion-menu li 
+    {
+      flex-direction: column; /* empilha ícone e texto */
+      align-items: flex-start; /* alinha à esquerda */
     }
 
 }
 
-.topo-produtos{
+.topo-produtos
+{
   margin-top: 10px;
-  
 }
  
-  .card {
+  .card 
+  {
     background-color: #fff;
     width: 180px;
     height: 230px;
@@ -81,14 +93,16 @@ body {
     
   }
 
-  .card img {
+  .card img 
+  {
     width: 150px;
     height: 120px;
     border-top-left-radius: 12px;
     border-top-right-radius: 12px;
   }
 
-  .card div {
+  .card div 
+  {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -98,16 +112,19 @@ body {
  
   }
 
-  .card h1 {
+  .card h1 
+  {
     font-size: 1.2rem;
   }
 
-  .card h2 {
+  .card h2 
+  {
     font-size: .9rem;
     color: #aaaa;
   }
 
-  .card button {
+  .card button 
+  {
     background-color: #000000;
     height: 30px;
     border: none;
@@ -119,27 +136,22 @@ body {
     border-radius: 4px;
   }
 
-  .card button:hover {
+  .card button:hover 
+  {
     background-color: #000000;
     cursor: pointer;
   }
 
 /* copos */
 
-.copos{
+.copos
+{
   margin-top: 30px;
  
 }
 
 
-
-
-
-
-
 /* fim do css dos produtos */
-
-
 
 
 .fundo-rodape 
@@ -163,4 +175,16 @@ body {
 a 
 {
     text-decoration: none; /* Remove a linha de sublinhado para todos os links */
+}
+
+.header-title
+{
+  color: #343a40;
+}
+
+
+.form-container
+{
+  max-width: 400px;
+  padding: 1rem;
 }
