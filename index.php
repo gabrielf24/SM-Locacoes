@@ -12,13 +12,18 @@
 </head>
 <body>
 
+
 <!-- inclusão do cabeçalho -->
 <?php include ("cabecalho.php") ?>
+
 
 
 <!-- inclusão do rodapé -->
 <?php include ("rodape.php") ?>
 
+
+
     
 </body>
+
 </html>
