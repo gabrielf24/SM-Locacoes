@@ -1,0 +1,215 @@
+/* cabecalho.php */
+#logo
+{
+  width: 100%;
+  height: 150px ;
+}
+
+#pesquisa
+{
+  margin-top: 16px;
+  margin-left: 1%;
+}
+.text-end
+{
+  margin-top: 16px;
+  margin-left: 1%; 
+}
+
+hr
+{
+  border: 1px solid #000000;
+  width: 90%;
+
+}
+
+
+
+/* Estilo geral */
+body 
+{
+    font-family: Arial, sans-serif;
+    background-color: #fff; /* cor de fundo suave */
+    color: #343a40; /* texto padrão */
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo da sidebar */
+.col-left 
+{
+ 
+    padding: 15px;
+   
+}
+
+/* Título das categorias */
+.bx-title h2 
+{
+    font-size: 1.5em;
+    margin-bottom: 15px;
+    align-items: center;
+}
+
+/* Lista de categorias */
+.cd-accordion-menu 
+{
+    list-style-type: none; /* remove marcadores */
+    padding: 0;
+}
+
+.cd-accordion-menu li 
+{
+    margin-bottom: 30px; /* espaçamento entre itens */
+    display: flex; /* para alinhar ícones e textos */
+    align-items: center; /* centraliza verticalmente */
+}
+
+.cd-accordion-menu img.icone 
+{
+    width: 30px; /* largura do ícone */
+    height: 30px; /* altura do ícone */
+    margin-right: 10px; /* espaço entre ícone e texto */
+}
+
+/* Links */
+.cd-accordion-menu a 
+{
+    text-decoration: none; /* remove sublinhado */
+    color: black; /* azul para links */
+    transition: color 0.3s; /* animação suave */
+}
+
+.cd-accordion-menu a:hover 
+{
+    color: #0056b3; /* cor mais escura ao passar o mouse */
+}
+
+/* Responsividade */
+@media (max-width: 768px) 
+{
+    .col-left 
+    {
+      padding: 10px; /* menos padding em telas menores */
+    }
+
+    .cd-accordion-menu li 
+    {
+      flex-direction: column; /* empilha ícone e texto */
+      align-items: flex-start; /* alinha à esquerda */
+    }
+
+}
+
+.topo-produtos
+{
+  margin-top: 10px;
+}
+ 
+  .card 
+  {
+    background-color: #fff;
+    width: 180px;
+    height: 230px;
+    border-radius: 12px;
+    box-shadow: 4px 4px 12px #aaaa;
+    margin-right: 15px;
+    
+    
+  }
+
+  .card img 
+  {
+    width: 150px;
+    height: 120px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+  }
+
+  .card div 
+  {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;              /* css dos cards */
+    gap: 4px;
+    height: 50%;
+ 
+  }
+
+  .card h1 
+  {
+    font-size: 1.2rem;
+  }
+
+  .card h2 
+  {
+    font-size: .9rem;
+    color: #aaaa;
+  }
+
+  .card button 
+  {
+    background-color: #000000;
+    height: 30px;
+    border: none;
+    padding: 4px;
+    width: 80%;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 4px;
+  }
+
+  .card button:hover 
+  {
+    background-color: #000000;
+    cursor: pointer;
+  }
+
+/* copos */
+
+.copos
+{
+  margin-top: 30px;
+ 
+}
+
+
+/* fim do css dos produtos */
+
+
+.fundo-rodape 
+{
+    padding-top: 20px;    
+    padding-bottom: 20px;
+    color: #fff;
+}
+
+.redes_sociais
+{
+    color: #ddd;
+}
+
+.redes_sociais 
+{
+    text-decoration: none; /* Remove a linha de sublinhado */
+    color: white; /* Mantém a cor do texto como está */
+}
+
+a 
+{
+    text-decoration: none; /* Remove a linha de sublinhado para todos os links */
+}
+
+.header-title
+{
+  color: #343a40;
+}
+
+
+.form-container {
+  max-width: 400px;
+  padding: 1rem;  /* css da página login */
+  width: 100%; 
+}
